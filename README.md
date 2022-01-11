@@ -1,6 +1,7 @@
 # GRIP-TASK-1
-## The Sparks Foundation GRIP Internship (Task  - 1)
+### The Sparks Foundation GRIP Internship (Task  - 1)
 
+## Prediction using Supervised Machine Learning<br /> 
 This is a Simple Linear Regression Problem.<br /> 
 It is the Prediction of percentage of a student based on the number of study hours.<br />
 Data is given in csv file with 2 columns.<br />
