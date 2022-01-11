@@ -6,7 +6,7 @@ It is the Prediction of percentage of a student based on the number of study hou
 Data is given in csv file with 2 columns.<br />
 
 ### Requirements :<br />
-To run this code u will have to install :<br />
+To run this code u will have to install -
 python 3.9.7 <br />
 
 ### Python Libraries required : <br />
